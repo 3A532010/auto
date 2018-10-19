@@ -1,0 +1,15 @@
+{
+    "name": "tzehan/auto",
+    "authors": [
+        {
+            "name": "3A532010",
+            "email": "s3a532010@student.ncut.edu.tw"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    },
+    "require": {}
+}
